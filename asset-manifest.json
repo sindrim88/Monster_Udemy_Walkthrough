@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monster_Udemy_Walkthrough/static/css/main.4fc957ec.chunk.css",
+    "main.js": "/Monster_Udemy_Walkthrough/static/js/main.d6bf5cfd.chunk.js",
+    "main.js.map": "/Monster_Udemy_Walkthrough/static/js/main.d6bf5cfd.chunk.js.map",
+    "runtime-main.js": "/Monster_Udemy_Walkthrough/static/js/runtime-main.bb909c63.js",
+    "runtime-main.js.map": "/Monster_Udemy_Walkthrough/static/js/runtime-main.bb909c63.js.map",
+    "static/js/2.c46c5db4.chunk.js": "/Monster_Udemy_Walkthrough/static/js/2.c46c5db4.chunk.js",
+    "static/js/2.c46c5db4.chunk.js.map": "/Monster_Udemy_Walkthrough/static/js/2.c46c5db4.chunk.js.map",
+    "static/js/3.2580a12e.chunk.js": "/Monster_Udemy_Walkthrough/static/js/3.2580a12e.chunk.js",
+    "static/js/3.2580a12e.chunk.js.map": "/Monster_Udemy_Walkthrough/static/js/3.2580a12e.chunk.js.map",
+    "index.html": "/Monster_Udemy_Walkthrough/index.html",
+    "static/css/main.4fc957ec.chunk.css.map": "/Monster_Udemy_Walkthrough/static/css/main.4fc957ec.chunk.css.map",
+    "static/js/2.c46c5db4.chunk.js.LICENSE.txt": "/Monster_Udemy_Walkthrough/static/js/2.c46c5db4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb909c63.js",
+    "static/js/2.c46c5db4.chunk.js",
+    "static/css/main.4fc957ec.chunk.css",
+    "static/js/main.d6bf5cfd.chunk.js"
+  ]
+}
